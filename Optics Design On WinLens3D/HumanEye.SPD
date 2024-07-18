@@ -1,0 +1,76 @@
+"-- Version 5.0 file --","03-04-2020"
+"","",1
+#FALSE#
+0,#FALSE#,#FALSE#,#FALSE#,0
+3,1,0,0,587.6,486.1,656.3,440,700
+"1","Stop",#FALSE#,"","",0,"0, 0",#TRUE#,"","","","","","air"," ","","","NonSH","",0
+"2","   ",#TRUE#,"Nom","lens",2,"0, 5",#TRUE#,"","","","","","air"," ","","","NonSH","",0
+" LENS 2"
+"   Surf  1","sphere",0,7.80000019073486,#TRUE#,"","",0,587.6,5,0,"","","","FALSE","FALSE|0|"
+"   Space 1",.600000023841858,"","OJO","#0-32000: 377000#","","","","","","",""
+"      GlassIndex",1.37699997425079,1.37699997425079,1.37699997425079,"",""
+"   Surf  2","sphere",0,6.40000009536743,#TRUE#,"","",0,587.6,5,0,"","","","FALSE","FALSE|0|"
+" LENS 2 End"
+"3","   ",#TRUE#,"Nom","lens",3,"0, 0",#TRUE#,"","","","","","air"," ","","","NonSH","",0
+" LENS 3"
+"   Surf  1","sphere",0,10.1000003814697,#TRUE#,"","",0,587.6,1,0,"","","","FALSE","FALSE|0|"
+"   Space 1",4,"","LENS","#0-32000: 411000#","","","","","","",""
+"      GlassIndex",1.41100001335144,1.41100001335144,1.41100001335144,"",""
+"   Surf  2","sphere",0,-6.09999990463257,#TRUE#,"","",0,587.6,5,0,"","","","FALSE","FALSE|0|"
+"   Space 2",1,"","VITREOUS","#0-32000: 337000#             ","","","","","","",""
+"      GlassIndex",1.33700001239777,1.33700001239777,1.33700001239777,"",""
+"   Surf  3","sphere",0,0,#TRUE#,"","",0,587.6,5,0,"","","","FALSE","FALSE|0|"
+" LENS 3 End"
+"Defocus",0,0,""
+""
+"Zoom",1," ",0
+"ObjMedia","air",""," ","ImgMedia","air",""," "
+"ParameterTypes",1,0,0,0,"WaveWt"
+1,1,1,.5,.5
+"Waveband",587.6,486.1,656.3,440,700
+"efl",22.8676352213027
+"ObjDist",-1000,"   ImagDist",21.1360728870258
+"l",-1006.76279518989,"   l'",23.3991234955526
+"Mag",-2.32419429952606E-02,"   AngMag",0
+"Track",1031.73607291087
+"ObjNa",0,"   ImagNa",0,"Stop Rad",0
+"entr rad",0,"exit rad",0
+"fNos",0
+"Entr Pup Rad",0,"Exit Pup Rad",0
+"fNosEff",0
+"ObjAngle",5,"   ObjHeight",87.4886635259239
+"ImagAngle",-3.525826,"ImagHeight",-2.03340653040106
+0,"GaussianBeam1 1,Circ, 587.6, .7481555, .001, 748.1555, 2, .7481555, .001, 748.1555, 2,-1000, 0","","","","","","",""
+"Scales"
+"Grid",2,2,.707106,.707106,.5,100,1
+"GridRatio",#FALSE#,0,0
+"Nos colors",1,"Nos fields",2
+"0","0"
+"Nos rings",5,"Spot sepn",1
+"Spot Scl",.5,"Tra Scl",.1
+"Opd Scl wv",1,"OPD Scl mm",.001
+"Astig",.1,"Dist",1,"LatCol",.1,"Astig a",1,"LatCol a",100
+"Spot Scl a",100,"Tra Scl a",100
+"Coat",100,0,800,400,25
+"Max MTF",0,"Thru MTF",0,"Thru Scale",0,#FALSE#
+"Max MTF a",0,"Thru MTF a",0,"Thru Scale a",0
+"OSC",.1,"OIC",.1
+"RelIll Mid",.6666667,"RelIll Small",.3333333
+"FldMtf Mid",.6666667,"FldMtf Small",.3333333
+-1,-1,-1,-1
+-1,-1,-1,-1
+#FALSE#,1125.764,1056.288
+#FALSE#,0,0,0
+0,-1,0,0
+400,800,587.6,.001,.7481555,748.1555,587.6,0,0,0
+#FALSE#,0
+#FALSE#,5,"","","","","","","",""
+"GROUPS START"
+"   GROUP: ",1,1,3,1
+"GROUPS END"
+"NOPD"
+""
+"","","","","","","","",#FALSE#
+#FALSE#,0
+"","","","","","",""
+"Ojo.SPD"
